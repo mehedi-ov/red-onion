@@ -1,0 +1,10 @@
+.food_link a{
+text-decoration: none;
+margin: 50px;
+padding: 100px;
+align-items: center;
+}
+.food_link{
+    padding: 10px 30px;
+   
+}
